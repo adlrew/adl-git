@@ -335,7 +335,7 @@ body {
         margin-bottom: 20px;
     }
 }
-@media screen and (min-width: 1250px) {
+@media screen and (min-width: 1300px) {
     .contain-column {
         column-count: 4;
         column-gap: 20px;
